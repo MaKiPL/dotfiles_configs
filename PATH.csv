@@ -1,0 +1,6 @@
+﻿Prefix|Name|Path|Platform|Comments
+|config.nu|C:\Users\makip\AppData\Roaming\nushell\config.nu|ALL|Nu-shell config
+|env.nu|C:\Users\makip\AppData\Roaming\nushell\env.nu|ALL|Nu-shell environment
+|starship.toml|C:\Users\makip\.config\starship.toml|ALL|Starship prompt
+WindowsExclusive\Terminal|settings.json|C:\Users\makip\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json|Windows|Windows terminal settings
+WindowsExclusive\Totalcmd|wincmd.ini|C:\Users\makip\AppData\Roaming\GHISLER\wincmd.ini|Windows|Total Commander config 
